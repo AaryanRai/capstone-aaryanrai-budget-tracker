@@ -20,4 +20,5 @@ A simple and modern **personal finance web app** to track income, expenses, budg
 - **Storage**: localStorage (browser-based) can be extended to MongoDB
 - **Backend **: Node.js + Express
 
+
 ---
